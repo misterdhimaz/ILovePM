@@ -2,7 +2,7 @@ export const COMIC_STORY = [
   {
     id: "scene-1",
     speaker: "dims",
-    image: "/hp.webp",
+    image: "/Hp.webp",
     text: "Heh, lihat deh grup divisi. Sepi ya? Padahal biasanya notif proker meledak terus.",
     mood: "melancholy",
     action: "MENATAP LAYAR HP",
